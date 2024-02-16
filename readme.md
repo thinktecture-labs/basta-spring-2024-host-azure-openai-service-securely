@@ -20,7 +20,7 @@ az account list --output table
 az account set --subscription subscription-id
 ```
 
-You can then deploy the whole whole solution by executing:
+You can then deploy the whole solution by executing:
 
 ```bash
 cd Code
